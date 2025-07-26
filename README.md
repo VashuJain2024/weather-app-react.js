@@ -6,7 +6,7 @@ A modern, responsive weather application built with **React + Vite**, styled usi
 
 ## 🔗 Live Demo
 
-> [🚀 View Live](#) *https://check-weather-website.netlify.app/*
+> 🚀 *https://check-weather-website.netlify.app/*
 
 --- 
 
